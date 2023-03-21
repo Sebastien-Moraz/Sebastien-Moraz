@@ -1,6 +1,6 @@
 ### Hi there 👋
-[![Myiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=myiro&&theme=aura&&show_icons=true&&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Myiro&langs_count=3&theme=aura&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Myiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sebastien-Moraz&&theme=aura&&show_icons=true&&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sebastien-Moraz&langs_count=3&theme=aura&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Myiro/myiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
