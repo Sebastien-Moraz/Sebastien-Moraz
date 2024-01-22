@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Laravel, Nodejs and Dart<br><br>👨‍💻 All of my projects are available at sebastien.moraz.net<br><br>📫 How to reach me sebastien@moraz.net<br><br>📄 Know about my experiences https://sebastien.moraz.net/assets/documents/cv_sebastien_moraz.pdf<br><br>⚡ Fun fact I am a lightmap
+🌱 I’m currently learning Laravel, Nodejs and Dart<br><br>👨‍💻 All of my projects are available at sebastien.moraz.net<br><br>📫 How to reach me sebastien@moraz.net<br><br>📄 Know about my experiences [My CV](https://sebastien.moraz.net/assets/documents/cv_sebastien_moraz.pdf)<br><br>⚡ Fun fact I am a lightmap
 
 
 ## 🌐 Socials:
